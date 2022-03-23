@@ -1,0 +1,16 @@
+{
+    "name": "mvc/mvc",
+    "license": "GPL 3.o",
+    "authors": [{
+        "name": "hossein",
+        "email": "hosseinsheikhbarani@gmai.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "lil\\": "./"
+        }
+    },
+    "require": {
+
+    }
+}
